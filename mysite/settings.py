@@ -25,7 +25,11 @@ SECRET_KEY = 'mxkxu(n0j^-pad2clj-_u0-8uj9u+at2e^0soaa*z-p3(404r-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['ponder735.pythonanywhere.com','127.0.0.1']
+=======
+ALLOWED_HOSTS = ['ponder735.pythonanywhere.com']
+>>>>>>> bd3898b0d4780031742d99c082e7861ec9d776d0
 
 
 # Application definition
